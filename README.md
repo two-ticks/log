@@ -1,6 +1,6 @@
 # log
 
-# july
+# july 2021
 
 ### july 07, 2021
 ### to-do 
