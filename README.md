@@ -26,3 +26,13 @@
 
 ### links
 - https://editor.p5js.org/radium.scientist/sketches/92dp3aS9K
+
+### july 09, 2021
+### to-do 
+- [x] analog class : rectifiers
+- [x] p5.teach : style method in text
+
+### thoughts 
+- happy about merge-TeX branch getting merged into develop
+
+### links
