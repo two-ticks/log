@@ -36,3 +36,24 @@
 - happy about merge-TeX branch getting merged into develop
 
 ### links
+
+### july 10, 2021
+### to-do 
+- [x] updated resume 
+
+### thoughts 
+- internships and GATE
+
+### links
+
+### july 11, 2021
+### to-do 
+- [x] analog : half-wave rectifier
+- [x] setup vscode for c++
+- [x] STL : vector and array   
+
+### thoughts 
+- plan better for GATE with internships
+- learn some react and redux
+
+### links
